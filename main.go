@@ -1,5 +1,8 @@
 package main
 
+// This is a my comment
+// This is my second comment
+
 import (
 	"fmt"
 )
